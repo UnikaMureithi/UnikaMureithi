@@ -2,7 +2,7 @@
 
 ## About Me
 
-Aspiring IT professional passionate about coding and building innovative solutions.
+Aspiring IT professional passionate building innovative solutions.
 
 - 🎓 Just completed my bachelor's degree in Business Information Technology at Strathmore University
 - 🌍  I'm based in Kenya
