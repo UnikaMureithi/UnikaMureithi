@@ -4,7 +4,7 @@
 
 Aspiring IT professional passionate about building innovative solutions.
 
-- 🎓 Just completed my bachelor's degree in Business Information Technology at Strathmore University
+- 🎓 Completed my bachelor's degree in Business Information Technology at Strathmore University
 - 🌍  I'm based in Kenya
 - 🧠  I'm learning React, Next.js and Supabase
 - 🤝  I'm open to collaborating on interesting projects
